@@ -11,4 +11,6 @@ table td {
   height: 150px;
   border-width: 3px;
   border-color: black;
+  font-size: 150px;
+  margin: auto;
 }
