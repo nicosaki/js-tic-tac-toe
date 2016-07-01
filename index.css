@@ -1,3 +1,14 @@
 html {
-  
+
+}
+
+table {
+  background-color: #eee;
+}
+
+table td {
+  width: 150px;
+  height: 150px;
+  border-width: 3px;
+  border-color: black;
 }

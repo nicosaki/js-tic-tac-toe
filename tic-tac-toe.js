@@ -55,3 +55,5 @@ TicTacToe.prototype = {
     // if ((this.boardReplica[0][0] === this.boardReplica[0][1]) && (this.boardReplica[0][0] === this.boardReplica[0][2]))
   }
 }
+
+module.exports = TicTacToe
